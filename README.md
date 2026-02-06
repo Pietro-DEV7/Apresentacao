@@ -1,16 +1,17 @@
-## Hi there 👋
+<H2>Olá, eu sou Pietro</H2>
+Sou aluno do SENAI e curso Análise e Desenvolvimento de Sistemas.
+Estou aprendendo programação na prática e tentando evoluir um pouco todo dia 🚀
+Coisas que eu faço:
+ Vou pra academia
+ vou na igreja
+ Faço curso de sonoplastia
+ 
+OBJETIVOS DE APENDIZAGEM:
+Lógica de programação
+JavaScript,PYTHON,HTML,JAVA e C
+Base pra me tornar um bom dev no futuro
+Quero aprender, compartilhar e ajudar a galera aqui no GitHub
+Se quiser trocar ideia ou acompanhar meus projetos, fica à vontade 👊
+EMAIL:pietrobitencourtalcantara@gmail.com 
 
-<!--
-**Pietro-HUB7/Pietro-HUB7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
