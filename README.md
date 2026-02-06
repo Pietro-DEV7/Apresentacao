@@ -11,6 +11,7 @@ JavaScript,PYTHON,HTML,JAVA e C
 Base pra me tornar um bom DEV no futuro
 Quero aprender, compartilhar e ajudar a galera aqui no GitHub
 Se quiser trocar ideia ou acompanhar meus projetos, fica à vontade 👊
+
 EMAIL:pietrobitencourtalcantara@gmail.com 
 
 
