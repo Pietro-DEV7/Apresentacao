@@ -4,7 +4,6 @@ Estou aprendendo programação na prática e tentando evoluir um pouco todo dia 
 Coisas que eu faço:
 Vou pra academia
 vou na igreja
-Faço curso de sonoplastia
 OBJETIVOS DE APENDIZAGEM:
 Lógica de programação
 JavaScript,PYTHON,HTML,JAVA e C
